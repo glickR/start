@@ -13,12 +13,9 @@ defmodule Start do
 
   """
   def hello do
-     IO.puts("ruti")
+     IO.puts("ruti6")
     :world
   end
 
 
-  def input do
-    num= IO.puts("enter a number")
-  end
 end
