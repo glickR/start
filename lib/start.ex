@@ -13,7 +13,7 @@ defmodule Start do
 
   """
   def hello do
-     IO.puts("ruti6")
+     IO.puts("rutituti")
     :world
   end
 
